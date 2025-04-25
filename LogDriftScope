@@ -1,0 +1,23 @@
+
+---
+
+### **3. main_LogDriftScope**  
+**Description:**  
+Scans logs and surfaces pattern shifts, frequency jumps, and repetitive drift zones.
+
+#### **README.md**
+```markdown
+# LogDriftScope - Log Shift and Pattern Monitor
+
+LogDriftScope identifies subtle but dangerous shifts in log behavior by tracking burst patterns and keyword surges.
+
+## Features
+- Drift and burst detection  
+- Frequency windowing  
+- CLI-friendly timeline scan  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_LogDriftScope.git
+cd main_LogDriftScope
+python analyze.py
